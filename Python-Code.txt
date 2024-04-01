@@ -1,0 +1,6 @@
+n = ["a","e","i","o","u"]
+x = input("Enter the letter: ")
+if(x in n):
+print("x is vowel")
+else:
+print("x is not a vowel")

@@ -1,0 +1,5 @@
+Hosts:
+Tasks:
+- copy:
+    src = /tmp/tmp1
+    dest = /tmp/tmp2
