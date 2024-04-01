@@ -38,6 +38,7 @@ if deleteResponse.status_code == 200:
 response = requests.get("https://us-central1-testomate-test.cloudfunctions.net/api/restaurants") 
 print(response.json())
 print(response.status_code)
+print(response.status1_code)
 
 
 
