@@ -4,3 +4,4 @@ if(x in n):
 print("x is vowel")
 else:
 print("x is not a vowel")
+print("x is not a vowel")
